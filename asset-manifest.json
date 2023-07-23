@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/vintagecars/static/js/main.b77ff54c.js",
+    "index.html": "/vintagecars/index.html",
+    "main.b77ff54c.js.map": "/vintagecars/static/js/main.b77ff54c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b77ff54c.js"
+  ]
+}
