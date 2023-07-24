@@ -14,14 +14,14 @@ return(
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active" data-bs-interval="10000">
-      <img src="https://cdn.images.express.co.uk/img/dynamic/79/590x/XXXTentacion-dead-976266.jpg?r=1533662195714" className="d-block w-100" alt="..." height="600" width="100%"/>
+      <img src="https://th.bing.com/th/id/R.6548e1eccb75f5559dc95fda96631dac?rik=elXqJ8A2oa1CkA&pid=ImgRaw&r=0" className="d-block w-100" alt="..." height="600" width="100%"/>
       <div className="carousel-caption d-none d-md-block">
         <h5>BMW i8</h5>
-        <p>One of the rarest car in the wrld owned by XXXTentacion</p>
+        <p>One of the rarest cars to have ever been made by BMW</p>
       </div>
     </div>
     <div className="carousel-item" data-bs-interval="2000">
-      <img src="https://cdn.carhp.com/images/content/15a7bbd93b84f502ce48d4c1d9c2764e.png?mode=crop&overlay=https://cdn.carhp.com/images/carhp_logo_white.png&overlay_width_pct=0.055555555555556&overlay_top=10&overlay_left=10" className="d-block w-100" alt="..."/>
+      <img src="https://th.bing.com/th/id/OIP.uyuo9SGOPvs0XpIYeeKN3AHaEK?pid=ImgDet&rs=1" className="d-block w-100" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
         <h5>Chevrolet Corvette</h5>
         <p>One of the fastest in the wrld owned by juice wrld</p>
